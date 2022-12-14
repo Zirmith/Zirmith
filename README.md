@@ -1,8 +1,3 @@
-# Zirmith  ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966 (1)]
-(https://github.com/NotSnowyR/images/raw/main/ezgif-4-b2a838347d.gif)
-
-
-
 >Hello I'm Zirmith, and welcome to my github page.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/481475041217871882?borderRadius=5px&idleMessage=not%20doing%20anything&bg=a)](https://discord.com/users/481475041217871882)
