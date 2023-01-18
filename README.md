@@ -20,7 +20,7 @@
  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
   &nbsp;
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="[munity.com/profiles/76561198084228301/](https://steamcommunity.com/profiles/76561198084228301/)">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://steamcommunity.com/profiles/76561198084228301/">
   <img src="https://www.freeiconspng.com/uploads/steam-icon-19.png" width="23px" alt="Secret"></a>
 </p> 
 
