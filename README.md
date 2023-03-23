@@ -8,9 +8,9 @@
 
 <details align="center">
 
-<summary> <b> <samp> START DIE.EXE </samp></b></summary>
+<summary> <b> <samp> START EXE </samp></b></summary>
 <samp>
- <b><h2 style="color: #fc6203">B U R I E D &nbsp; A L I V E !</h2> </b>
+ <b><h2 style="color: #fc6203">S T I L L &nbsp; A L I V E !</h2> </b>
 
 <img src="https://thumbs.gfycat.com/AdmirableFlimsyDeermouse-size_restricted.gif" width="200"/>
 
