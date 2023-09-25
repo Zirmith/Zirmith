@@ -1,3 +1,5 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/481475041217871882?borderRadius=5px&idleMessage=not%20doing%20anything&bg=a)](https://discord.com/users/481475041217871882)
+
 <details align="center">
   <summary> <b> <samp> About Me </samp></b></summary>
   <samp>
@@ -5,10 +7,10 @@
 
     I'm passionate about coding, gaming, and exploring new technologies. I love to create, learn, and contribute to open-source projects.
   </samp>
-   <p align="center">
+<!--   <p align="center">
       <img align="center" href="https://discord.com/users/481475041217871882" src="https://lanyard.cnrad.dev/api/481475041217871882?borderRadius=5px&idleMessage=not%20doing%20anything&bg=a" alt="Zirmith" />
   </p>
-</details>
+</details> --!>
 
 <details align="center">
   <summary> <b> <samp> GitHub Stats </samp></b></summary>
