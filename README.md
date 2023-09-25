@@ -38,6 +38,7 @@
   <summary> <b> <samp> Social Media </samp></b></summary>
   <samp>
     Connect with me on:
+     <br>
      - [YouTube]
      <a href="https://www.youtube.com/channel/UC7kreUISW7F0ZJBK0gyhgHA">Channel</a>
       <br>
