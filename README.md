@@ -5,6 +5,9 @@
 
     I'm passionate about coding, gaming, and exploring new technologies. I love to create, learn, and contribute to open-source projects.
   </samp>
+   <p align="center">
+      <img align="center" href="https://discord.com/users/481475041217871882" src="https://lanyard.cnrad.dev/api/481475041217871882?borderRadius=5px&idleMessage=not%20doing%20anything&bg=a" alt="Zirmith" />
+  </p>
 </details>
 
 <details align="center">
