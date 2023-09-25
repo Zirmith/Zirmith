@@ -69,21 +69,37 @@
 <details align="center">
   <summary> <b> <samp> Technologies I Love ❤️ </samp></b></summary>
   <samp>
+    <br>
     - Frontend: HTML, CSS, JavaScript, React
+    <br>
     - Backend: Node.js, Express
+    <br>
     - Databases: MongoDB, PostgreSQL
+    <br>
     - Game Development: Unity, Unreal Engine
+    <br>
     - DevOps: Docker, Kubernetes
+    <br>
     - Cloud: AWS, Azure
+    <br>
   </samp>
 </details>
 
 <details align="center">
   <summary> <b> <samp> Fun Facts </samp></b></summary>
   <samp>
-    - 🎮 I'm a gaming enthusiast and a proud member of [Gamer's Club](https://www.gamersclub.com.br/)
+    <br>
+    - 🎮 I'm a gaming enthusiast and a proud member of the [VRChat]
+    <br>
+    (https://www.vrchat.com/)
+    community.
+    <br>
+    - I love exploring virtual worlds and meeting new friends in VRChat!
+    <br>
     - 🌍 I enjoy exploring new places and cultures, both in real life and in virtual worlds.
+    <br>
     - 🚀 I believe in the power of technology to shape a better future.
+    <br>
   </samp>
 </details>
 
