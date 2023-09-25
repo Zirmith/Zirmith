@@ -26,7 +26,7 @@
   <summary> <b> <samp> Featured Project </samp></b></summary>
   <samp>
     🚀 Check out my recent project: [CivitaiAPI]
-    <a href="https://github.com/Zirmith/CivitaiAPI"></a>
+    <a href="https://github.com/Zirmith/CivitaiAPI">Linked</a>
   </samp>
 </details>
 
@@ -34,9 +34,11 @@
   <summary> <b> <samp> Social Media </samp></b></summary>
   <samp>
     Connect with me on:
-    
-    - [YouTube](https://www.youtube.com/channel/UC7kreUISW7F0ZJBK0gyhgHA)
-    - [Steam](https://steamcommunity.com/profiles/76561198084228301/)
+     - [YouTube]
+     <a href="https://www.youtube.com/channel/UC7kreUISW7F0ZJBK0gyhgHA">Channel</a>
+     - [Steam]
+     <a href="https://steamcommunity.com/profiles/76561198084228301/">Profile</a>
+   
   </samp>
 </details>
 
