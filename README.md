@@ -31,4 +31,19 @@ Connect with me on:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zirmith" alt="Zirmith" />
 </p>
 
-> Beep
+## Technologies I Love ❤️
+
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express
+- Databases: MongoDB, PostgreSQL
+- Game Development: Unity, Unreal Engine
+- DevOps: Docker, Kubernetes
+- Cloud: AWS, Azure
+
+## Fun Facts
+
+- 🎮 I'm a gaming enthusiast and a proud member of [Gamer's Club](https://www.gamersclub.com.br/)
+- 🌍 I enjoy exploring new places and cultures, both in real life and in virtual worlds.
+- 🚀 I believe in the power of technology to shape a better future.
+
+Feel free to explore my repositories and reach out to me if you have any questions or want to collaborate on exciting projects!
