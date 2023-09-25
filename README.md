@@ -11,12 +11,12 @@
   <summary> <b> <samp> GitHub Stats </samp></b></summary>
   <samp>
      <p align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zirmith](https://github-readme-stats.vercel.app/api?username=Zirmith&show_icons=true&theme=dracula" alt="Zirmith" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zirmith&show_icons=true&theme=dracula" alt="Zirmith" />
     </p>
     <br>
     [![Top Langs]
 <p align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zirmith](https://github-readme-stats.vercel.app/api?username=Zirmith&show_icons=true&theme=dracula" alt="Zirmith" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zirmith&show_icons=true&theme=dracula" alt="Zirmith" />
     </p>
     
   </samp>
