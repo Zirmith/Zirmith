@@ -10,16 +10,23 @@
 <details align="center">
   <summary> <b> <samp> GitHub Stats </samp></b></summary>
   <samp>
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zirmith&show_icons=true&theme=dracula)
-
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zirmith&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+     <p align="center">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zirmith](https://github-readme-stats.vercel.app/api?username=Zirmith&show_icons=true&theme=dracula" alt="Zirmith" />
+    </p>
+    <br>
+    [![Top Langs]
+<p align="center">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zirmith](https://github-readme-stats.vercel.app/api?username=Zirmith&show_icons=true&theme=dracula" alt="Zirmith" />
+    </p>
+    
   </samp>
 </details>
 
 <details align="center">
   <summary> <b> <samp> Featured Project </samp></b></summary>
   <samp>
-    🚀 Check out my recent project: [CivitaiAPI](https://github.com/Zirmith/CivitaiAPI)
+    🚀 Check out my recent project: [CivitaiAPI]
+    <a href="https://github.com/Zirmith/CivitaiAPI"></a>
   </samp>
 </details>
 
