@@ -47,6 +47,12 @@
       <br>
      - [Discord]
      <a href="https://discord.com/users/481475041217871882">Profile</a>
+     <br>
+      - [Instagram]
+     <a href="https://www.instagram.com/onlyvulpix/">Profile</a>
+     <br>
+      - [Twitter Aka X]
+     <a href="https://twitter.com/_NeuroFox">Profile</a>
    
   </samp>
 </details>
