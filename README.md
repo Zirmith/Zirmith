@@ -14,6 +14,9 @@
 
 <img src="https://thumbs.gfycat.com/AdmirableFlimsyDeermouse-size_restricted.gif" width="200"/>
 
+Recent Project: <a href="https://github.com/Zirmith/CivitaiAPI">CivitaiAPI</a>
+
+
 <p align="center">
  &nbsp;
  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UC7kreUISW7F0ZJBK0gyhgHA">
@@ -27,12 +30,11 @@
 
 ----
 <p align="center">
-ᵂᵃᵗᶜʰ ᵐʸ ᶜᵒⁿᵗʳⁱᵇᵘᵗⁱᵒⁿˢ ᵍᵉᵗ ᵉᵃᵗᵉⁿ ᵘᵖ ᵇʸ ᵃ ˢⁿᵃᵏᵉ! 🐍
+ᵂᵃᵗᶜʰ ᵐʸ ᶜᵒⁿᵗʳⁱᵇᵘᵗⁱᵒⁿˢ
 </p>
 
-<p align="center">
-  <img width="400" src="https://github.com/WiiZARDD/WiiZARDD/blob/output/github-contribution-grid-snake.svg" alt="Material Bread logo">
-</p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zirmith&" alt="Zirmith" /></p>
+
 
 
 > Beep
